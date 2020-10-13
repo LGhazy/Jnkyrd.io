@@ -1,0 +1,34 @@
+body{
+color: black;
+background: #C6F7DF;
+font-family : arial;
+
+}
+.h1 {
+	margin: auto;
+	width: auto;
+	text-align: center;
+	background-color: #F0E5CC;
+}
+.h2 {
+	margin: auto;
+	width:2000px;
+	text-align: footer;
+	background-color:#F0E5CC;
+}
+.h3{
+	margin: auto;
+	width: auto;
+	text-align:left;
+	background-color:white;
+}
+.h4{
+	margin: auto;
+	width: auto;
+	text-align:center;
+	background-color:white;
+}
+table{
+	table-layout = auto;
+}
+	
