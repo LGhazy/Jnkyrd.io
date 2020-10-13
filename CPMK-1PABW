@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Kelas PABW
+</title>
+<link rel="StyleSheet"
+type="text/css"href="style.css">
+<body>
+	<table  height="100%" width="100%" border="1" padding="10px">
+		<tr>
+			<th colspan="2">
+				<h1 class="h1">Kelas PABW</h1>
+		</tr>
+		<tr valign="top" border="0">
+			<td class="h3" id=menu align="left">
+				<h3 alignment="center">
+	<ul>
+
+	<li>Home</li>
+	<li>Daftar Kelas</li>
+	<li>Daftar Mahasiswa</li>
+	<li>Ubah Akun</li>
+				</h3>
+			</td>
+			<td>
+			<img src="./uii.png"” / align="right">Logo UII</p>
+				<h3 alignment="center">
+	<p>
+		<b>Ini merupakan website resmi dari mata kuliah</b>
+			</P>
+	<p>
+		<b>Pengembangan Aplikasi Berbasis Web</b>
+			</p>
+	<ol start="1" type="1">
+<p>Syarat untuk dapat login ke sistem</p>
+<p>adalah registrasi dengan melampirkan:</p>
+<ul>
+<li>Scan KTM</li>
+<li>Scan KTP</li>
+<li>Foto Diri 4R</li>
+</ul>
+<div class="h3">
+			<h3 style="background-color:#00CFF"><p>Registrasi Data Diri</p></h3>
+			</div>
+	<p>username           :<input type="text" placeholder="monggo diisi">
+		</p>
+	<p>password           :<input type="password" placeholder="Rahasia">
+		</p>
+	<p>Konfirmasi Password:<input type="password" placeholder="samain mas">
+			</p>
+	<p>Jenis Kelamin      :<label for="Laki-laki"><input id="Laki-laki" type="radio" name="Laki-laki-Perempuan" value="Laki-laki" checked> Laki-laki</label><label for="Perempuan"><input id="Perempuan" type="radio" name="Laki-laki-Perempuan" value="Perempuan" checked> Perempuan</label>
+			</P>
+	<p>Jurusan            :<select>
+									<option value="Teknik Kimia">Teknik Kimia</option>
+									<option value="Teknik Industri">Teknik Industri</option>
+									<option value="Informatika">Informatika</option>
+									<option value="Teknik Elektro">Teknik Elektro</option>
+									<option value="Teknik Mesin">Teknik Mesin</option>
+								</select>
+			</p>
+	<p>Fakultas           :<input type="text" placeholder="FTI" readonly>
+			</p>
+	<p>Deskripsi Diri     :<input type="text" placeholder>
+			</p>
+	<button type="registrasi">Registrasi</button>
+						</h3>
+			</td>
+		</tr>
+		<tr class="h2" >
+			<td colspan="2" id=menu align="center">
+				<p><em>Copyright © 2020 PABW</em>
+				</p>
+
+		<a href="">pabw2020@uii</a>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
