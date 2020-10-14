@@ -45,3 +45,7 @@ cor(newData2)
 plot(newData$limit, newData$rating)
 plot(newData1$age, newData1$card)
 plot(newData2$income, newData2$education)
+
+#SoalKasus
+#Suherman murid SD kelas 4 mengerjakan tugas 15 soal pilihan ganda dengan jumlah opsional 4 yaitu (a,b,c,d) maka temukan kemungkinan memiliki 4 jawaban benar, jika suherman menjawab pertanyaan secara acak.
+dbinom(4, size=15, prob=1/2)
